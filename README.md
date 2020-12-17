@@ -1,4 +1,4 @@
-# Tent and bezel and iris keyboard
+# Tent and bezel for iris keyboard
 
 ![image of tented iris keyboard with bezel](./tent-and-bezel.jpg)
 
